@@ -1,7 +1,7 @@
-package com.droid.yoteshinreview.movie.remote.api
+package com.droid.yoteshinreview.movie.data.remote.api
 
 import com.droid.yoteshinreview.BuildConfig
-import com.droid.yoteshinreview.movie.remote.models.MovieDto
+import com.droid.yoteshinreview.movie.data.remote.models.MovieDto
 import com.droid.yoteshinreview.utils.ApiConstants
 import retrofit2.http.GET
 import retrofit2.http.Query

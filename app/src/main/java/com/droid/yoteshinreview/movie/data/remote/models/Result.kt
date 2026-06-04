@@ -1,4 +1,4 @@
-package com.droid.yoteshinreview.movie.remote.models
+package com.droid.yoteshinreview.movie.data.remote.models
 
 
 import kotlinx.serialization.SerialName
